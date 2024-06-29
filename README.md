@@ -1,4 +1,4 @@
-                                                                        Word Embedding Training with Context Pairs
+                                                    Word Embedding Training with Context Pairs
 
 
 This project demonstrates a simple implementation of word embeddings using a small vocabulary and context pairs. The code trains word vectors using a basic neural network approach similar to the Continuous Bag of Words (CBOW) model.
